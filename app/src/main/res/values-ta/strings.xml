@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">சீனியர் லான்ச்சர்</string>
+
+    <!-- Greetings -->
+    <string name="good_morning">காலை வணக்கம்</string>
+    <string name="good_afternoon">மதிய வணக்கம்</string>
+    <string name="good_evening">மாலை வணக்கம்</string>
+    <string name="good_night">இனிய இரவு</string>
+
+    <!-- Quick Settings -->
+    <string name="quick_settings">விரைவு அமைப்புகள்</string>
+    <string name="wifi">வைஃபை</string>
+    <string name="bluetooth">புளூடூத்</string>
+    <string name="torch">டார்ச்</string>
+    <string name="sound">ஒலி</string>
+    <string name="vibrate">அதிர்வு</string>
+    <string name="silent">அமைதி</string>
+
+    <!-- Speed Dial -->
+    <string name="speed_dial">ஸ்பீட் டயல்</string>
+    <string name="manage">நிர்வகி</string>
+    <string name="add">சேர்</string>
+
+    <!-- Apps -->
+    <string name="apps">செயலிகள்</string>
+    <string name="phone">தொலைபேசி</string>
+    <string name="messages">செய்திகள்</string>
+    <string name="camera">கேமரா</string>
+    <string name="contacts">தொடர்புகள்</string>
+    <string name="gallery">கேலரி</string>
+    <string name="medication">மருந்து</string>
+    <string name="health">ஆரோக்கியம்</string>
+    <string name="calendar">நாட்காட்டி</string>
+    <string name="video_call">வீடியோ அழைப்பு</string>
+    <string name="ride">பயணம்</string>
+    <string name="notes">குறிப்புகள்</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="all_apps">எல்லா செயலிகள்</string>
+    <string name="help">உதவி</string>
+
+    <!-- Emergency -->
+    <string name="emergency">அவசரம்</string>
+    <string name="sos">எஸ்ஓஎஸ்</string>
+    <string name="hold_3_sec">3 வினாடி அழுத்தவும்</string>
+    <string name="emergency_alert">அவசர எச்சரிக்கை</string>
+    <string name="calling_emergency_contacts">அவசர தொடர்புகளை அழைக்கிறது</string>
+    <string name="seconds">வினாடிகள்</string>
+    <string name="im_ok_cancel">நான் நல்லா இருக்கேன் - ரத்து செய்</string>
+    <string name="emergency_services">அவசர சேவைகள்</string>
+    <string name="police">காவல்துறை</string>
+    <string name="ambulance">ஆம்புலன்ஸ்</string>
+    <string name="fire">தீயணைப்பு</string>
+    <string name="your_emergency_contacts">உங்கள் அவசர தொடர்புகள்</string>
+    <string name="no_emergency_contacts">அவசர தொடர்புகள் இல்லை</string>
+    <string name="emergency_alert_sent">அவசர எச்சரிக்கை அனுப்பப்பட்டது</string>
+
+    <!-- Medication -->
+    <string name="medications">மருந்துகள்</string>
+    <string name="add_medication">மருந்து சேர்</string>
+    <string name="edit_medication">மருந்து திருத்து</string>
+    <string name="no_medications">மருந்துகள் இல்லை</string>
+    <string name="medication_name">மருந்து பெயர்</string>
+    <string name="dosage">அளவு</string>
+    <string name="frequency">எத்தனை முறை</string>
+    <string name="daily">தினமும்</string>
+    <string name="weekly">வாரம் ஒருமுறை</string>
+    <string name="monthly">மாதம் ஒருமுறை</string>
+    <string name="as_needed">தேவைப்படும்போது</string>
+    <string name="reminder_times">நினைவூட்டல் நேரங்கள்</string>
+    <string name="mark_as_taken">எடுத்ததாக குறி</string>
+    <string name="time_to_take_medication">மருந்து எடுக்கும் நேரம்</string>
+    <string name="ive_taken_it">எடுத்துவிட்டேன்</string>
+    <string name="skip_this_time">இந்த முறை தவிர்</string>
+    <string name="remind_in_10_min">10 நிமிடத்தில் நினைவூட்டு</string>
+
+    <!-- Health -->
+    <string name="water_intake">தண்ணீர் அருந்துதல்</string>
+    <string name="glasses">கிளாஸ்</string>
+    <string name="add_glass">கிளாஸ் சேர்</string>
+    <string name="medical_profile">மருத்துவ விவரம்</string>
+    <string name="blood_type">இரத்த வகை</string>
+    <string name="allergies">ஒவ்வாமைகள்</string>
+    <string name="medical_conditions">மருத்துவ நிலைகள்</string>
+    <string name="emergency_notes">அவசர குறிப்புகள்</string>
+    <string name="doctor_information">மருத்துவர் தகவல்</string>
+    <string name="doctors_name">மருத்துவர் பெயர்</string>
+    <string name="doctors_phone">மருத்துவர் தொலைபேசி</string>
+    <string name="insurance_information">காப்பீட்டு தகவல்</string>
+    <string name="save_changes">மாற்றங்களை சேமி</string>
+
+    <!-- Settings -->
+    <string name="accessibility">அணுகல்</string>
+    <string name="hearing_aid_mode">செவிப்புலன் சாதன முறை</string>
+    <string name="voice_feedback">குரல் பின்னூட்டம்</string>
+    <string name="anti_shake">குலுக்கல் தடுப்பு</string>
+    <string name="double_tap_confirm">இரட்டை தட்டு உறுதிப்படுத்தல்</string>
+    <string name="touch_vibration">தொடு அதிர்வு</string>
+    <string name="safety">பாதுகாப்பு</string>
+    <string name="fall_detection">விழுவதை கண்டறிதல்</string>
+    <string name="location_sharing">இருப்பிடம் பகிர்தல்</string>
+    <string name="calls">அழைப்புகள்</string>
+    <string name="auto_answer_calls">தானாக அழைப்பு எடுத்தல்</string>
+    <string name="language">மொழி</string>
+    <string name="app_language">செயலி மொழி</string>
+    <string name="emergency_contacts">அவசர தொடர்புகள்</string>
+
+    <!-- Common -->
+    <string name="save">சேமி</string>
+    <string name="cancel">ரத்து</string>
+    <string name="delete">நீக்கு</string>
+    <string name="edit">திருத்து</string>
+    <string name="back">பின்</string>
+    <string name="search">தேடு</string>
+    <string name="call">அழை</string>
+    <string name="message">செய்தி</string>
+    <string name="voice">குரல்</string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+    <string name="ok">சரி</string>
+    <string name="loading">ஏற்றுகிறது...</string>
+    <string name="permission_required">அனுமதி தேவை</string>
+    <string name="grant_permission">அனுமதி அளி</string>
+
+    <!-- Notifications -->
+    <string name="medication_reminder">மருந்து நினைவூட்டல்</string>
+    <string name="fall_detection_active">விழுவதை கண்டறிதல் செயலில்</string>
+    <string name="fall_detected">விழுவது கண்டறியப்பட்டது!</string>
+    <string name="location_sharing_active">இருப்பிடம் பகிர்தல் செயலில்</string>
+</resources>

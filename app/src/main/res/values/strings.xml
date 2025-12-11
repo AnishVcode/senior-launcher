@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SeniorLauncher</string>
+
+    <!-- Greetings -->
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="good_night">Good Night</string>
+
+    <!-- Quick Settings -->
+    <string name="quick_settings">Quick Settings</string>
+    <string name="wifi">WiFi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="torch">Torch</string>
+    <string name="sound">Sound</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="silent">Silent</string>
+
+    <!-- Speed Dial -->
+    <string name="speed_dial">Speed Dial</string>
+    <string name="manage">Manage</string>
+    <string name="add">Add</string>
+
+    <!-- Apps -->
+    <string name="apps">Apps</string>
+    <string name="phone">Phone</string>
+    <string name="messages">Messages</string>
+    <string name="camera">Camera</string>
+    <string name="contacts">Contacts</string>
+    <string name="gallery">Gallery</string>
+    <string name="medication">Medication</string>
+    <string name="health">Health</string>
+    <string name="calendar">Calendar</string>
+    <string name="video_call">Video Call</string>
+    <string name="ride">Ride</string>
+    <string name="notes">Notes</string>
+    <string name="settings">Settings</string>
+    <string name="all_apps">All Apps</string>
+    <string name="help">Help</string>
+
+    <!-- Emergency -->
+    <string name="emergency">EMERGENCY</string>
+    <string name="sos">SOS</string>
+    <string name="hold_3_sec">Hold 3 sec</string>
+    <string name="emergency_alert">EMERGENCY ALERT</string>
+    <string name="calling_emergency_contacts">Calling emergency contacts in</string>
+    <string name="seconds">seconds</string>
+    <string name="im_ok_cancel">I\'M OK - CANCEL</string>
+    <string name="emergency_services">Emergency Services</string>
+    <string name="police">Police</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="fire">Fire</string>
+    <string name="your_emergency_contacts">Your Emergency Contacts</string>
+    <string name="no_emergency_contacts">No emergency contacts set up</string>
+    <string name="emergency_alert_sent">Emergency Alert Sent</string>
+
+    <!-- Medication -->
+    <string name="medications">Medications</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="edit_medication">Edit Medication</string>
+    <string name="no_medications">No Medications</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="frequency">Frequency</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="as_needed">As Needed</string>
+    <string name="reminder_times">Reminder Times</string>
+    <string name="mark_as_taken">Mark as Taken</string>
+    <string name="time_to_take_medication">Time to take your</string>
+    <string name="ive_taken_it">I\'ve Taken It</string>
+    <string name="skip_this_time">Skip This Time</string>
+    <string name="remind_in_10_min">Remind me in 10 minutes</string>
+
+    <!-- Health -->
+    <string name="water_intake">Water Intake</string>
+    <string name="glasses">glasses</string>
+    <string name="add_glass">Add Glass</string>
+    <string name="medical_profile">Medical Profile</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="allergies">Allergies</string>
+    <string name="medical_conditions">Medical Conditions</string>
+    <string name="emergency_notes">Emergency Notes</string>
+    <string name="doctor_information">Doctor Information</string>
+    <string name="doctors_name">Doctor\'s Name</string>
+    <string name="doctors_phone">Doctor\'s Phone</string>
+    <string name="insurance_information">Insurance Information</string>
+    <string name="save_changes">Save Changes</string>
+
+    <!-- Settings -->
+    <string name="accessibility">Accessibility</string>
+    <string name="hearing_aid_mode">Hearing Aid Mode</string>
+    <string name="voice_feedback">Voice Feedback</string>
+    <string name="anti_shake">Anti-Shake</string>
+    <string name="double_tap_confirm">Double-Tap to Confirm</string>
+    <string name="touch_vibration">Touch Vibration</string>
+    <string name="safety">Safety</string>
+    <string name="fall_detection">Fall Detection</string>
+    <string name="location_sharing">Location Sharing</string>
+    <string name="calls">Calls</string>
+    <string name="auto_answer_calls">Auto-Answer Calls</string>
+    <string name="language">Language</string>
+    <string name="app_language">App Language</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="voice">Voice</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="loading">Loading...</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="grant_permission">Grant Permission</string>
+
+    <!-- Notifications -->
+    <string name="medication_reminder">Medication Reminder</string>
+    <string name="fall_detection_active">Fall Detection Active</string>
+    <string name="fall_detected">Fall Detected!</string>
+    <string name="location_sharing_active">Location Sharing Active</string>
+</resources>

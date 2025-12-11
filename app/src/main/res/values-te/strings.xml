@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">సీనియర్ లాంచర్</string>
+
+    <!-- Greetings -->
+    <string name="good_morning">శుభోదయం</string>
+    <string name="good_afternoon">శుభ మధ్యాహ్నం</string>
+    <string name="good_evening">శుభ సాయంత్రం</string>
+    <string name="good_night">శుభ రాత్రి</string>
+
+    <!-- Quick Settings -->
+    <string name="quick_settings">త్వరిత సెట్టింగ్‌లు</string>
+    <string name="wifi">వైఫై</string>
+    <string name="bluetooth">బ్లూటూత్</string>
+    <string name="torch">టార్చ్</string>
+    <string name="sound">సౌండ్</string>
+    <string name="vibrate">వైబ్రేట్</string>
+    <string name="silent">సైలెంట్</string>
+
+    <!-- Speed Dial -->
+    <string name="speed_dial">స్పీడ్ డయల్</string>
+    <string name="manage">నిర్వహించు</string>
+    <string name="add">జోడించు</string>
+
+    <!-- Apps -->
+    <string name="apps">యాప్స్</string>
+    <string name="phone">ఫోన్</string>
+    <string name="messages">సందేశాలు</string>
+    <string name="camera">కెమెరా</string>
+    <string name="contacts">కాంటాక్ట్స్</string>
+    <string name="gallery">గ్యాలరీ</string>
+    <string name="medication">మందులు</string>
+    <string name="health">ఆరోగ్యం</string>
+    <string name="calendar">క్యాలెండర్</string>
+    <string name="video_call">వీడియో కాల్</string>
+    <string name="ride">రైడ్</string>
+    <string name="notes">నోట్స్</string>
+    <string name="settings">సెట్టింగ్స్</string>
+    <string name="all_apps">అన్ని యాప్స్</string>
+    <string name="help">సహాయం</string>
+
+    <!-- Emergency -->
+    <string name="emergency">అత్యవసరం</string>
+    <string name="sos">ఎస్‌ఓఎస్</string>
+    <string name="hold_3_sec">3 సెకన్లు నొక్కండి</string>
+    <string name="emergency_alert">అత్యవసర హెచ్చరిక</string>
+    <string name="calling_emergency_contacts">అత్యవసర కాంటాక్ట్స్‌కు కాల్ చేస్తోంది</string>
+    <string name="seconds">సెకన్లు</string>
+    <string name="im_ok_cancel">నేను బాగున్నాను - రద్దు</string>
+    <string name="emergency_services">అత్యవసర సేవలు</string>
+    <string name="police">పోలీసులు</string>
+    <string name="ambulance">అంబులెన్స్</string>
+    <string name="fire">అగ్నిమాపక</string>
+    <string name="your_emergency_contacts">మీ అత్యవసర కాంటాక్ట్స్</string>
+    <string name="no_emergency_contacts">అత్యవసర కాంటాక్ట్స్ లేవు</string>
+    <string name="emergency_alert_sent">అత్యవసర హెచ్చరిక పంపబడింది</string>
+
+    <!-- Medication -->
+    <string name="medications">మందులు</string>
+    <string name="add_medication">మందు జోడించు</string>
+    <string name="edit_medication">మందు సవరించు</string>
+    <string name="no_medications">మందులు లేవు</string>
+    <string name="medication_name">మందు పేరు</string>
+    <string name="dosage">మోతాదు</string>
+    <string name="frequency">ఎంత తరచుగా</string>
+    <string name="daily">రోజూ</string>
+    <string name="weekly">వారానికి ఒకసారి</string>
+    <string name="monthly">నెలకు ఒకసారి</string>
+    <string name="as_needed">అవసరమైనప్పుడు</string>
+    <string name="reminder_times">రిమైండర్ సమయాలు</string>
+    <string name="mark_as_taken">తీసుకున్నట్లు మార్క్ చేయి</string>
+    <string name="time_to_take_medication">మందు తీసుకునే సమయం</string>
+    <string name="ive_taken_it">తీసుకున్నాను</string>
+    <string name="skip_this_time">ఈసారి వదిలేయి</string>
+    <string name="remind_in_10_min">10 నిమిషాల్లో గుర్తు చేయి</string>
+
+    <!-- Health -->
+    <string name="water_intake">నీటి తీసుకోడం</string>
+    <string name="glasses">గ్లాసులు</string>
+    <string name="add_glass">గ్లాస్ జోడించు</string>
+    <string name="medical_profile">వైద్య ప్రొఫైల్</string>
+    <string name="blood_type">రక్త రకం</string>
+    <string name="allergies">అలెర్జీలు</string>
+    <string name="medical_conditions">వైద్య పరిస్థితులు</string>
+    <string name="emergency_notes">అత్యవసర నోట్స్</string>
+    <string name="doctor_information">డాక్టర్ సమాచారం</string>
+    <string name="doctors_name">డాక్టర్ పేరు</string>
+    <string name="doctors_phone">డాక్టర్ ఫోన్</string>
+    <string name="insurance_information">బీమా సమాచారం</string>
+    <string name="save_changes">మార్పులు సేవ్ చేయి</string>
+
+    <!-- Settings -->
+    <string name="accessibility">అందుబాటు</string>
+    <string name="hearing_aid_mode">హియరింగ్ ఎయిడ్ మోడ్</string>
+    <string name="voice_feedback">వాయిస్ ఫీడ్‌బ్యాక్</string>
+    <string name="anti_shake">యాంటీ-షేక్</string>
+    <string name="double_tap_confirm">డబుల్-ట్యాప్ నిర్ధారణ</string>
+    <string name="touch_vibration">టచ్ వైబ్రేషన్</string>
+    <string name="safety">భద్రత</string>
+    <string name="fall_detection">పడిపోవడం గుర్తించడం</string>
+    <string name="location_sharing">లొకేషన్ షేరింగ్</string>
+    <string name="calls">కాల్స్</string>
+    <string name="auto_answer_calls">ఆటో-ఆన్సర్ కాల్స్</string>
+    <string name="language">భాష</string>
+    <string name="app_language">యాప్ భాష</string>
+    <string name="emergency_contacts">అత్యవసర కాంటాక్ట్స్</string>
+
+    <!-- Common -->
+    <string name="save">సేవ్</string>
+    <string name="cancel">రద్దు</string>
+    <string name="delete">తొలగించు</string>
+    <string name="edit">సవరించు</string>
+    <string name="back">వెనక్కి</string>
+    <string name="search">వెతుకు</string>
+    <string name="call">కాల్</string>
+    <string name="message">సందేశం</string>
+    <string name="voice">వాయిస్</string>
+    <string name="yes">అవును</string>
+    <string name="no">కాదు</string>
+    <string name="ok">సరే</string>
+    <string name="loading">లోడ్ అవుతోంది...</string>
+    <string name="permission_required">అనుమతి అవసరం</string>
+    <string name="grant_permission">అనుమతి ఇవ్వండి</string>
+
+    <!-- Notifications -->
+    <string name="medication_reminder">మందు రిమైండర్</string>
+    <string name="fall_detection_active">పడిపోవడం గుర్తించడం ఆన్</string>
+    <string name="fall_detected">పడిపోవడం గుర్తించబడింది!</string>
+    <string name="location_sharing_active">లొకేషన్ షేరింగ్ ఆన్</string>
+</resources>
