@@ -1,0 +1,9 @@
+fastapi
+pydantic
+ollama
+uvicorn
+sentence-transformers
+sentence-transformers
+scikit-learn
+groq
+python-dotenv

@@ -13,3 +13,11 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+NLP-llm-server/venv/
+NLP-llm-server/.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+NLP-llm-server/*.pkl
